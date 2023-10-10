@@ -18,6 +18,6 @@ function salaires($arg2)
 
         return $resultat2;
 }
-
+//testpull
 
 echo salaires($tab_impair);
